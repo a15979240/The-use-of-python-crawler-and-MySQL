@@ -1,6 +1,6 @@
 # 該專案主要用來練習python爬蟲及MySQL的使用
 # -
-AMI3.0.py為爬蟲部分，爬蟲對象為"https://acgsecrets.hk/bangumi/"的動畫資訊站。
+AMI3.0.py為爬蟲部分，爬蟲對象為"https://acgsecrets.hk/bangumi/" 的動畫資訊站。
 執行後依照提示輸入年份及季度(月)，每季為3個月一論，EX：202001、202004或202107。
 若需存至MySQL中並執行ANISQL.py，則需保存TXT文字檔。
 
